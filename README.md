@@ -1,1 +1,1 @@
-# -project-schedule-management-frontend-project-schedule-management-backend
+# project-schedule-management-backend
